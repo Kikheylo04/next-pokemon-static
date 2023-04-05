@@ -3,7 +3,7 @@ import { Grid } from "@nextui-org/react";
 import { GetStaticProps, NextPage } from "next";
 import { Layout } from "../components/layouts";
 import { pokeApi } from "../api";
-import { PokemonListResponse, SmallPokemon } from "../interfaces";
+import { PokemonListResponse, SmallPokemon } from "../interfaces/pokemon-list";
 import { PokemonCard } from "@/components/pokemon";
 
 const inter = Inter({ subsets: ["latin"] });

@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, Spacer, Text, useTheme } from "@nextui-org/react";
+import { Spacer, Text, useTheme } from "@nextui-org/react";
 import Image from "next/image";
 import NextLink from "next/link";
 
